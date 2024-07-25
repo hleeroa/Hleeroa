@@ -1,6 +1,6 @@
 ## Hi!
 
-My name is Leo. I am a Python developer🐍
+My name is Hera. I am a Python developer🐍
 
 ## Here is something that I can do
 
@@ -10,10 +10,10 @@ My name is Leo. I am a Python developer🐍
 
 ## Netology certificates
 
-- Python ()
-- Django ()
-- SQL ()
-- GIT ()
+- Python https://github.com/Hleeroa/Hleeroa/blob/main/Python.pdf
+- Django https://github.com/Hleeroa/Hleeroa/blob/main/Django.pdf
+- SQL https://github.com/Hleeroa/Hleeroa/blob/main/SQL.pdf
+- GIT https://github.com/Hleeroa/Hleeroa/blob/main/GIT.pdf
 
 <!--
 **Hleeroa/Hleeroa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
