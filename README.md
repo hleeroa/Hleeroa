@@ -10,6 +10,8 @@ My name is Gera. I am a Python developer🐍
   
 - SQL (postgres). [Diplom TG Bot](https://github.com/Hleeroa/flash_card_bot)
 
+- Pytest. [Python testing](https://github.com/Hleeroa/tests)
+
 ## Netology certificates
 
 - Python https://github.com/Hleeroa/Hleeroa/blob/main/Python.pdf
