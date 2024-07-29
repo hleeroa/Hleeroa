@@ -5,6 +5,8 @@ My name is Gera. I am a Python developer🐍
 ## Here is something that I can do
 
 - Python. [Repositiry with diploma work](https://github.com/Dim1468/Team-project-VKinder)
+
+- API. [Work with YandexDisk](https://github.com/Hleeroa/VK_app)
   
 - Django. [Homework by Django-course](https://github.com/Hleeroa/Django_homework_projects?tab=readme-ov-file)
   
