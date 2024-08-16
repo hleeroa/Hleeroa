@@ -14,6 +14,8 @@ My name is Gera. I am a Python developer🐍
 
 - Pytest. [Python testing](https://github.com/Hleeroa/tests)
 
+- Pandas. [Data Analysis project](https://github.com/hleeroa/Data-Science)
+
 ## Netology certificates
 
 - Python https://github.com/Hleeroa/Hleeroa/blob/main/Python.pdf
