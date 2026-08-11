@@ -16,16 +16,6 @@ My name is Robin. I am a Python developer🐍
 
 - Pandas. [Data Analysis project](https://github.com/hleeroa/Data-Science)
 
-## Netology certificates
-
-- Python https://github.com/Hleeroa/Hleeroa/blob/main/Python.pdf
-  
-- Django https://github.com/Hleeroa/Hleeroa/blob/main/Django.pdf
-  
-- SQL https://github.com/Hleeroa/Hleeroa/blob/main/SQL.pdf
-  
-- GIT https://github.com/Hleeroa/Hleeroa/blob/main/GIT.pdf
-
 <!--
 **Hleeroa/Hleeroa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
